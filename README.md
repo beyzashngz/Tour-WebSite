@@ -5,4 +5,5 @@ This tour website project was created using Html and Css.
 It has a responsive design.
 
 </br>
+
 ![](tour.gif)
